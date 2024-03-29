@@ -11,14 +11,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ### H3 - Code Example 2
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-
-#### H4 - Code Example 3
-
 ``` javascript
 var myVar = "Hello, world!";
 ```
 
+#### H4
 ##### H5
 ###### H6
