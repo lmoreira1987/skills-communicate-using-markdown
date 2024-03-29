@@ -2,8 +2,23 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## H2
-### H3
-#### H4
+## H2 - Code Example 1
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### H3 - Code Example 2
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+#### H4 - Code Example 3
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ##### H5
 ###### H6
